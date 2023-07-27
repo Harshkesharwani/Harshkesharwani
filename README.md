@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MongoDB and Android studio.**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript, PHP**
 
 - 📫 How to reach me **Harshkesharwani2580@gmail.com**
 
