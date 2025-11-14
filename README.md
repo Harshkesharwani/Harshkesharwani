@@ -1,5 +1,3 @@
-<iframe src="https://drive.google.com/file/d/1GlJ1CNh85owaCm5k9qjko9_MrNZtppSa/preview" width="640" height="480" allow="autoplay"></iframe>
-
 <h1 align="center">Hi 👋, I'm Harsh Kesharwani</h1>
 <h3 align="center">A passionate Full Stack developer from India. Seeking an opportunity to contribute my skills and enthusiasm to create dynamic and user-friendly websites. As a beginner in the field, I am eager to learn and collaborate.</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media">
